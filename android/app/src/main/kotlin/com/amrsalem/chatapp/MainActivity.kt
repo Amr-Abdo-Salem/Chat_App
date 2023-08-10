@@ -1,0 +1,6 @@
+package com.amrsalem.chatapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

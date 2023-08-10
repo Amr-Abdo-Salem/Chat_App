@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410990773259",
+    "project_id": "chat--app-4f71d",
+    "storage_bucket": "chat--app-4f71d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410990773259:android:ec2faac31d295e2f1f730e",
+        "android_client_info": {
+          "package_name": "com.amrsalem.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410990773259-rvl8g2iaqm62mcun0uc14e7ar3rhss7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0tQVwtKM_PN5wY0_9oaTrscN-_L15wFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410990773259-rvl8g2iaqm62mcun0uc14e7ar3rhss7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
